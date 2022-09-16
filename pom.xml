@@ -1,0 +1,23 @@
+< projeto  xmlns = " http://maven.apache.org/POM/4.0.0 "  xmlns : xsi = " http://www.w3.org/2001/XMLSchema-instance "  xsi : schemaLocation = " http:/ /maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd " >
+  < modelVersion >4.0.0</ modelVersion >
+  < groupId >ti2cc</ groupId >
+  < artefatoId >Ex03</ artefatoId >
+  < versão >2.0</ versão >
+	< dependências >
+		< dependência >
+			< groupId >com.sparkjava</ groupId >
+			< artefatoId >faísca-núcleo</ artefatoId >
+			< versão >2.9.3</ versão >
+		</ dependência >
+		< dependência >
+			< groupId >org.slf4j</ groupId >
+			< artefatoId >slf4j-simples</ artefatoId >
+			< versão >1.7.21</ versão >
+		</ dependência >
+		< dependência >
+			< groupId >org.postgresql</ groupId >
+			< artefatoId >postgresql</ artefatoId >
+			< versão >42.3.3</ versão >
+		</ dependência >
+	</ dependências >
+</ projeto >
